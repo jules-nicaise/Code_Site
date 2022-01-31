@@ -1,0 +1,28 @@
+body {
+    background-image: url('test.png');
+}
+
+p {
+    color: green;
+    text-align:justify;
+}
+
+#title
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:xx-large;
+    color: red;
+    text-align:center;
+}
+
+#Intro{
+    color: green;
+}
+
+#Dev{
+    color: red;
+}
+
+#liste{
+    color: red;
+}
